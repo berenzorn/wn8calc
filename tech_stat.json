@@ -1,0 +1,135 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1
+  },
+  "data": {
+    "7937": {
+      "engine": {
+        "name": "В-2-54",
+        "power": 620,
+        "weight": 700,
+        "tag": "V-2-54",
+        "fire_chance": 0.12,
+        "tier": 9
+      },
+      "siege": null,
+      "max_ammo": 50,
+      "suspension": {
+        "name": "Т-54 обр. 1946 г.",
+        "weight": 7700,
+        "load_limit": 38700,
+        "tag": "Chassis_T-54_2",
+        "traverse_speed": 46,
+        "tier": 8,
+        "steering_lock_angle": 0
+      },
+      "weight": 34000,
+      "armor": {
+        "turret": {
+          "front": 200,
+          "sides": 155,
+          "rear": 60
+        },
+        "hull": {
+          "front": 120,
+          "sides": 80,
+          "rear": 45
+        }
+      },
+      "hp": 1550,
+      "profile_id": "1287-4613-14339-17666-19460",
+      "modules": {
+        "gun_id": 19460,
+        "suspension_id": 17666,
+        "turret_id": 14339,
+        "radio_id": 1287,
+        "engine_id": 4613
+      },
+      "gun": {
+        "move_down_arc": 5,
+        "caliber": 100,
+        "name": "100 мм Д-10Т обр. 1945 г.",
+        "weight": 2300,
+        "move_up_arc": 20,
+        "fire_rate": 6.82,
+        "dispersion": 0.39,
+        "tag": "_100mm_D10T_obr_45",
+        "traverse_speed": 33,
+        "reload_time": 8.8,
+        "tier": 7,
+        "aim_time": 2.9
+      },
+      "is_default": true,
+      "turret": {
+        "name": "Т-54 обр. 1946 г.",
+        "weight": 7500,
+        "view_range": 390,
+        "hp": 310,
+        "tag": "Turret_1_T-54_2",
+        "traverse_speed": 48,
+        "traverse_right_arc": 180,
+        "tier": 8,
+        "traverse_left_arc": 180
+      },
+      "hull_weight": 15400,
+      "radio": {
+        "tier": 8,
+        "signal_range": 525,
+        "tag": "_9RM",
+        "name": "9РМ",
+        "weight": 100
+      },
+      "rapid": null,
+      "speed_forward": 56,
+      "hull_hp": 1240,
+      "speed_backward": 20,
+      "tank_id": 7937,
+      "ammo": [
+        {
+          "penetration": [
+            131,
+            175,
+            219
+          ],
+          "stun": null,
+          "type": "ARMOR_PIERCING",
+          "damage": [
+            188,
+            250,
+            313
+          ]
+        },
+        {
+          "penetration": [
+            176,
+            235,
+            294
+          ],
+          "stun": null,
+          "type": "ARMOR_PIERCING_CR",
+          "damage": [
+            188,
+            250,
+            313
+          ]
+        },
+        {
+          "penetration": [
+            38,
+            50,
+            63
+          ],
+          "stun": null,
+          "type": "HIGH_EXPLOSIVE",
+          "damage": [
+            248,
+            330,
+            413
+          ]
+        }
+      ],
+      "max_weight": 38700
+    }
+  }
+}

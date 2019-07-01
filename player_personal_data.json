@@ -1,0 +1,62 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1
+  },
+  "data": {
+    "445888": {
+      "client_language": "",
+      "last_battle_time": 1552068439,
+      "account_id": 445888,
+      "created_at": 1288587547,
+      "updated_at": 1552068525,
+      "private": null,
+      "global_rating": 5474,
+      "clan_id": null,
+      "statistics": {
+        "all": {
+          "spotted": 9585,
+          "battles_on_stunning_vehicles": 212,
+          "max_xp": 2340,
+          "avg_damage_blocked": 339.26,
+          "direct_hits_received": 35478,
+          "explosion_hits": 1531,
+          "piercings_received": 26290,
+          "piercings": 27031,
+          "max_damage_tank_id": 7169,
+          "xp": 6050299,
+          "survived_battles": 3018,
+          "dropped_capture_points": 10096,
+          "hits_percents": 69,
+          "draws": 143,
+          "max_xp_tank_id": 513,
+          "battles": 11157,
+          "damage_received": 9255692,
+          "avg_damage_assisted": 353.91,
+          "max_frags_tank_id": 7937,
+          "avg_damage_assisted_track": 55.61,
+          "frags": 9109,
+          "stun_number": 1019,
+          "avg_damage_assisted_radio": 298.31,
+          "capture_points": 12368,
+          "stun_assisted_damage": 71762,
+          "max_damage": 5413,
+          "hits": 51466,
+          "battle_avg_xp": 542,
+          "wins": 5595,
+          "losses": 5419,
+          "damage_dealt": 9781470,
+          "no_damage_direct_hits_received": 8969,
+          "max_frags": 8,
+          "shots": 74336,
+          "explosion_hits_received": 2100,
+          "tanking_factor": 0.34
+        },
+        "trees_cut": 6400,
+        "frags": null
+      },
+      "nickname": "Berenzorn",
+      "logout_at": 1552068522
+    }
+  }
+}
